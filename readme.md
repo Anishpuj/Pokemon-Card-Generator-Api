@@ -1,5 +1,5 @@
 
-# Apple Vision Pro CLONE 
+# Pokemon Card Generator using API
 
 - This is a webapp built from scratch due to my curiosity and interest over Pokemons and to merge my interest of Wevdevlopment to make  a webapp that could use `poke.api` to make a Pokemon card genertor whenever the user clicks on `Generate` button 
 ![App Screenshot](https://github.com/Anishpuj/Starbucks-landing-page/assets/98417394/6a34f3b1-e769-4248-ac5f-e929a11410eb)
