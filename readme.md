@@ -6,7 +6,7 @@
 # Capture
 ![App Screenshot](https://github.com/Anishpuj/Starbucks-landing-page/assets/98417394/6a34f3b1-e769-4248-ac5f-e929a11410eb)
 
-# Ducmentation 
+# Documentation 
 [Ducmentation](https://dev.to/anishpuj/pokemon-card-generator-3pgm)
 ## Demo
 
