@@ -7,7 +7,7 @@
 ![App Screenshot](https://github.com/Anishpuj/Starbucks-landing-page/assets/98417394/6a34f3b1-e769-4248-ac5f-e929a11410eb)
 
 # Documentation 
-[Ducmentation](https://dev.to/anishpuj/pokemon-card-generator-3pgm)
+[Documentation](https://dev.to/anishpuj/pokemon-card-generator-3pgm)
 ## Demo
 
 [Click this link to see how it looks](https://pokecardapinew.netlify.app/)   
